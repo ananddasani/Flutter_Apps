@@ -14,7 +14,7 @@ If you are willing to Learn Dart Language, I have made One Awesome Course for yo
 
 1. [Simple Login Page](https://github.com/ananddasani/Flutter_Login_Page_App)
 
-1. Calculator App
+1. [Counter App](https://github.com/ananddasani/Flutter_Counter_App)
 
 
 ## Advanced
