@@ -34,17 +34,17 @@ Updating Soon...
 
 ## Flutter Animation
 
-Updating Soon...
+1. [Flutter Logo Animation ](https://github.com/ananddasani/Flutter_Login_Page_App)
 
 
 ## Flutter Library 
 
 Updating Soon...
 
-
+<!-- 
 ## Flutter Widgets 
 
-Updating Soon...
+Updating Soon... -->
 
 
 ## ❤️ Project Maintainers
