@@ -10,7 +10,7 @@ If you are willing to Learn Dart Language, I have made One Awesome Course for yo
 [My Dart Course](https://github.com/ananddasani/Dart_Language)
 
 
-## Beginners & Intermediate
+## Beginners
 
 1. [Hello World (Text n Style)](https://github.com/ananddasani/Flutter_Hello_World)
 
