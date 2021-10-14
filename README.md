@@ -32,14 +32,15 @@ If you are willing to Learn Dart Language, I have made One Awesome Course for yo
 1. [Advance Login App With Validation Credentials](https://github.com/ananddasani/Flutter_Advance_Login_Page)
 
 
+## UI Clone 
+
+1. [WhatsApp UI Clone](https://github.com/ananddasani/Flutter_WhatsApp_UI_Clone)
+
+
 ## Flutter Animation
 
 1. [Flutter Logo Animation ](https://github.com/ananddasani/Flutter_Login_Page_App)
 
-
-## UI Clone 
-
-Updating Soon...
 
 <!-- 
 ## Flutter Widgets 
