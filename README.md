@@ -3,7 +3,7 @@
 Hey All!!
 This is a Flutter App Repo where i will be uploading my all Flutter Developemnt Projects starting from Beginning and going throug Cloning Popular Apps.
 
-## Dart 
+## Learn Dart First :P
 
 If you are willing to Learn Dart Language, I have made One Awesome Course for you have a tour first,
 
@@ -37,9 +37,9 @@ If you are willing to Learn Dart Language, I have made One Awesome Course for yo
 
 1. [Advance Login App (With Validation Credentials)](https://github.com/ananddasani/Flutter_Advance_Login_Page)
 
-1. [Cocktail App](https://github.com/ananddasani/Flutter_Fetch_Data_Cocktail_API)
-
 1. [Calculator App](https://github.com/ananddasani/Flutter_Calculator_App.)
+
+1. [Cocktail App](https://github.com/ananddasani/Flutter_Cocktail_App)
 
 
 ## UI Clone 
@@ -51,6 +51,7 @@ If you are willing to Learn Dart Language, I have made One Awesome Course for yo
 
 1. [Flutter Logo Animation ](https://github.com/ananddasani/Flutter_Login_Page_App)
 
+1. [Splash Screen](https://github.com/ananddasani/Flutter_Cards_Scroll_App)
 
 <!-- 
 ## Flutter Widgets 
