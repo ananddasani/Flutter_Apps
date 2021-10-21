@@ -24,6 +24,8 @@ If you are willing to Learn Dart Language, I have made One Awesome Course for yo
 
 1. [Exit Alert Box Confirmation](https://github.com/ananddasani/Flutter_Confirm_Exit)
 
+1. [MediaQuery & Orentation](https://github.com/ananddasani/Flutter_MediaQuery_Orentation)
+
 
 ## Intermidiate 
 
