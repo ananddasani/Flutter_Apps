@@ -53,7 +53,7 @@ If you are willing to Learn Dart Language, I have made One Awesome Course for yo
 
 ## Frontend + Backend ❤️
 
-1. [ToDo App Wiht FireBase](https://github.com/ananddasani/Flutter_ToDo_App)
+1. [ToDo App (CRUD Firebase)](https://github.com/ananddasani/Flutter_ToDo_App)
 
 
 ---
