@@ -1,7 +1,7 @@
 ## Flutter Apps (Source Code)
 
 Hey All!!
-This is a Flutter App Repo where i will be uploading my all Flutter Developemnt Projects starting from Beginning and going throug Cloning Popular Apps.
+This is a Flutter App Repo where i will be uploading my all Flutter Developemnt Projects starting from Beginning and going throug Cloning Popular Apps to Advance like working Backend Database like firebase and lots more.
 
 ## Learn Dart First :P
 
